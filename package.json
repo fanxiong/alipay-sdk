@@ -1,27 +1,27 @@
 {
-  "name": "alipay-node-sdk",
+  "name": "alipay-sdk",
   "version": "1.0.0",
-  "description": "支付宝App支付nodejs SDK",
+  "description": "支付宝wap支付nodejs SDK",
   "private": false,
-  "homepage": "https://github.com/fym201/alipay-node-sdk#readme",
+  "homepage": "https://github.com/wskongdesheng/alipay-sdk.git",
 
   "scripts": {
     "test": "grunt"
   },
 
  "bugs": {
-    "url": "https://github.com/fym201/alipay-node-sdk/issues"
+    "url": "https://github.com/wskongdesheng/alipay-sdk.git"
   },
 
   "repository": {
     "type": "git",
-    "url": "https://github.com/fym201/alipay-node-sdk.git"
+    "url": "https://github.com/wskongdesheng/alipay-sdk.git"
   },
 
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/fym201/alipay-node-sdk#license"
+      "url": "https://github.com/wskongdesheng/alipay-sdk.git"
     }
   ],
 
