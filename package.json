@@ -1,5 +1,5 @@
 {
-  "name": "alipay-node-sdk",
+  "name": "alipay-koa-sdk",
   "version": "1.0.0",
   "description": "支付宝wap支付nodejs SDK",
   "private": false,
